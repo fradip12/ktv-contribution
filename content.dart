@@ -814,10 +814,15 @@ void main() {
   print("roffr");
   print("vithm");
   print("jmhll");
-  print("xydde");
-  print("ikswm");
-  print("gdmyi");
-  print("yvpjh");
-  print("bwkcd");
-  print("hdeoq");
+  print("wloko");
+  print("wsash");
+  print("hhyud");
+  print("hbopr");
+  print("cbpws");
+  print("aprdx");
+  print("aeouw");
+  print("dguey");
+  print("cpwii");
+  print("kjoys");
+  print("vjkmd");
 }
