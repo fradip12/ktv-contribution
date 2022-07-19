@@ -110,10 +110,14 @@ void main() {
   print("sxryk");
   print("dnptq");
   print("bgaji");
-  print("bmnrw");
-  print("ksmpa");
-  print("plvcj");
-  print("cotxp");
-  print("ealjt");
-  print("bcxie");
+  print("nfmje");
+  print("ylkte");
+  print("pbpob");
+  print("amxxp");
+  print("jymam");
+  print("uwkga");
+  print("lxrqc");
+  print("urkje");
+  print("fttxi");
+  print("gimsy");
 }
