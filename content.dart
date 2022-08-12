@@ -5243,4 +5243,11 @@ void main() {
   print("jsmov");
   print("cinup");
   print("haipk");
+  print("adnhk");
+  print("aykse");
+  print("xbnvi");
+  print("svotl");
+  print("hitxk");
+  print("dnrlb");
+  print("weeja");
 }
