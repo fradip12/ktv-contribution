@@ -11741,5 +11741,8 @@ void main() {
   print("ertgu");
   print("fpinr");
   print("ovfrn");
-  print("lhtqh");
+  print("lcuai");
+  print("vbsli");
+  print("kwgid");
+  print("jchqx");
 }
