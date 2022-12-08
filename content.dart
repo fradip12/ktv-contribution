@@ -36320,6 +36320,4 @@ void main() {
   print("xghrn");
   print("hxsgn");
   print("ldwnj");
-  print("jwtte");
-  print("gacyo");
 }
