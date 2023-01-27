@@ -12,11 +12,11 @@ public class Cdoxxi {
         System.out.println("eahrb");
         System.out.println("otxxc");
         System.out.println("usywi");
-        System.out.println("tbotf");
-        System.out.println("rwdua");
-        System.out.println("vufik");
-        System.out.println("rmfxs");
-        System.out.println("vioxp");
-        System.out.println("uqkmd");
+        System.out.println("ejxpy");
+        System.out.println("guifs");
+        System.out.println("saegt");
+        System.out.println("mrfpi");
+        System.out.println("bqsym");
+        System.out.println("evbcl");
     }
 }
