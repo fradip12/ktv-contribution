@@ -46061,6 +46061,4 @@ void main() {
   print("wuaho");
   print("obnid");
   print("xvpnm");
-  print("lsojw");
-  print("yyngc");
 }
