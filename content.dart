@@ -57986,6 +57986,4 @@ void main() {
   print("amaju");
   print("xyruj");
   print("mkwry");
-  print("tkqkl");
-  print("uixby");
 }
