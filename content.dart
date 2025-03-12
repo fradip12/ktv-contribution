@@ -70881,6 +70881,4 @@ void main() {
   print("mrcge");
   print("fjjdn");
   print("ofbhc");
-  print("obqdg");
-  print("hdhnc");
 }
